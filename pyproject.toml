@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "advent-of-code-2020"
+version = "0.1.0"
+description = ""
+authors = ["Meri Liis Treimann"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+advent-of-code-data = "^0.8.5"
+python-dotenv = "^0.15.0"
+pytest = "^6.1.2"
+numpy = "^1.19.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
