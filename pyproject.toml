@@ -10,6 +10,12 @@ advent-of-code-data = "^0.8.5"
 python-dotenv = "^0.15.0"
 pytest = "^6.1.2"
 numpy = "^1.19.4"
+jupyter = "^1.0.0"
+plotly = "^4.13.0"
+pylint = "^2.6.0"
+bezier = "^2020.5.19"
+webcolors = "^1.11.1"
+matplotlib = "^3.3.3"
 
 [tool.poetry.dev-dependencies]
 
